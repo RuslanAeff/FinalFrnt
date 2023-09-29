@@ -342,6 +342,241 @@ nav{
     width: 300px;
     height: 450px;
 }
-
-
+.newArrival{
+    width: 1519px;
+    height: 1406px;
+    margin-top: 100px;
+}
+.newArrival h2{
+    font-size: 35px;
+    margin-left: 200px;
+}
+.newArrival p{
+    margin-left: 200px;
+    font-size: 1.27rem;
+    letter-spacing: 1px;
+    width: 1050px;
+    margin-top: 15px;
+    color: rgb(134, 142, 150);
+}
+.itemRow{
+    display: flex;
+    width: 1140px;
+    height: 38.88px;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-top: 50px;
+    margin-bottom: 24px;
+}
+.itemRowLeft {
+    display: flex;
+    width: 570px;
+    gap: 15px;
+}
+.itemRowLeft span{
+    font-size: 16px;
+    color: #868e96;
+    cursor: pointer;
+}
+.itemRowLeft span:nth-child(1){
+    font-weight: 800;
+    color: black;
+}
+.itemRowLeft span:hover{
+    font-size: 16px;
+    color: black;
+    text-decoration: underline;
+}
+.itemRowRight a{
+    text-decoration: none;
+    font-size: 15px;
+    letter-spacing: 2px;
+    color: #BCAC76;
+    margin-right: 55px;
+    transition: 0.2s all linear;
+}
+.itemRowRight a:hover{
+    text-decoration: underline;
+    color: hsl(46, 23%, 45%);
+}
+.RpUp{
+    display: flex;
+    margin-left: 180px;
+    gap: 30px;
+}
+.RpDown{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 180px;
+    gap: 30px;
+}
+.box img {
+    height: 400px;
+    width: 270px;
+}
+.box a {
+    text-decoration: none;
+    color: black;
+}
+.box a:hover {
+    text-decoration: underline;
+    color: black;
+}
+.summerSale{
+    width: 1110px;
+    height: 430px;
+    background-color: #f5e6b0;
+    margin-left: 200px;
+}
+.summerSale img {
+    height:350px;
+    width: 350px;
+}
+.summerSale #img2{
+    position: absolute;
+    top: 5055px;
+    right: 220px;
+    height: 440px;
+    width: 270px;
+}
+.summerSale h4 {
+    position: absolute;
+    top: 5220px;
+    left: 500px;
+    font-size: 75px;
+}
+.summerSale h5{
+    position: absolute;
+    top: 5340px;
+    left: 460px;
+    font-size: 30px;
+    width: 700px;
+    font-weight: 400;
+}
+.summerSale a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 7px;
+    letter-spacing: 4px;
+    font-weight: 600;
+    margin-left: 100px;
+    transition: 0.2s all linear;
+}
+.summerSale a:hover{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+}
+.garantee{
+    margin-top: 50px;
+    width: 1519px;
+    height: 274px;
+    background-color: #F0F0F0;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.sect{
+    display: flex;
+    gap: 20px;
+}
+.sect i{
+    font-size: 30px;
+}
+.sect h6{
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+.sect p{
+    color: #868e96;
+}
+.contact{
+    margin-top: 50px;
+    width: 1519px;
+    height: 274px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.contactLeft{
+    margin-left: 220px;
+}
+.contactLeft h6{
+        font-size: 17px;
+        letter-spacing: 3px;
+        margin-bottom: 20px;
+}
+.contactLeft p{
+    width: 400px;
+    color: #868e96;
+    letter-spacing: 1px;
+    font-size: 15px;
+    margin-bottom: 45px;
+}
+.cntltin input{
+    border: none;
+    border-bottom: 1px solid #868e96;
+    width: 358px;
+    font-size: 20px;
+}
+.cntltin i{
+    position: absolute;
+    top: 6100px;
+    left: 545px;
+    font-size: 27px;
+    color: #868e96;
+    cursor: pointer;
+}
+.contactRight{
+    display: flex;
+    font-size: 20px;
+    margin-right: 300px;
+    gap: 110px;
+    margin-top: 15px;
+}
+.ctall{
+    display: flex;
+    flex-direction: column;
+}
+.ctall h6{
+    padding-bottom: 20px;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.ctall a{
+    text-decoration: none;
+    color: #868e96;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+.ctall a:hover{
+    text-decoration: underline;
+}
+.end{
+    margin-top: 50px;
+    width: 1519px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.endLeft p{
+    color: #868e96;
+    margin-left: 200px;
+}
+.endRight{
+    margin-right: 170px;
+}
+.endRight a{
+    text-decoration: none;
+    color: #868e96;
+    font-size: 15px;
+    margin-right: 10px;
+}
+.endRight a:hover{
+    text-decoration: underline;
+}
 
