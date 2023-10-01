@@ -558,7 +558,7 @@ nav{
 }
 #mktbb{
     position: absolute;
-    top: 2560px;
+    top: 2540px;
     left: 545px;
     font-size: 27px;
     color: #868e96;
@@ -649,7 +649,7 @@ acc-sign{
 }
 .rowal{
     display: flex;
-    margin-left: 200px;   
+    margin-left: 170px;
     gap: 150px;   
     margin-top: 55px;
 }
@@ -740,7 +740,7 @@ form{
 #btn i{
     font-size: 14px;
 }
-section{
+#logins{
     background-color: #f2f5f9;
     margin-top: 20px;
     display: flex;
