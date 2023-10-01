@@ -564,6 +564,14 @@ nav{
     color: #868e96;
     cursor: pointer;
 }
+#mktbbo{
+    position: absolute;
+    top: 1780px;
+    left: 545px;
+    font-size: 27px;
+    color: #868e96;
+    cursor: pointer;
+}
 .contactRight{
     display: flex;
     font-size: 20px;
@@ -872,6 +880,139 @@ form{
     color: #868e96;
     cursor: default;
 }
-#mktbb{
-
+.orderinfos{
+    margin-top: 150px;
+    display: flex;
+}
+.orderbox{
+    width: 855px;
+    height: 595.45px;
+}
+table{
+    width: 825px;
+    height: 579.45px;
+    
+}
+thead{
+    background-color: #f8f9fa;
+    width: 825px;
+    height: 70.8px;
+}
+td{
+    border-bottom: 1px solid #868e96;
+    font-weight: 400;
+}
+th{
+    border-bottom: 1px solid #868e96;
+    font-weight: 900;
+}
+#span1{
+    background-color: #e3f4f6;
+    color: #17a2b8;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#span2{
+    background-color: #fff8e1;
+    color: #ffc107;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#span3{
+    background-color: #e5f4e9;
+    color: #28a745;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+#span4{
+    color: #dc3545;
+    background-color: #fbe7e9;
+    padding: 7px;
+    font-size: 12px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+td a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 15px 5px 15px;
+    border: 1px solid black;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+td a:hover{
+    color: white;
+    background-color: black;
+}
+tr:hover{
+    background-color: #f1f3f4;
+}
+.customerSidebar{
+    width: 255px;
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.15);
+-webkit-box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.15);
+-moz-box-shadow: 0x 0px 11px 0px rgba(0,0,0,0.15);
+}
+.customerSbUp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #f8f9fa;
+    padding: 30px;
+}
+.customerSbUp a > img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;   
+    margin-bottom: 40px; 
+}
+.customerSbUp h5{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.customerSbDown{
+    width: 255px;
+    height: 239.99px;
+}
+.customerSbDown a{
+    display: flex;
+    width: 255px;
+    height: 48.64px;
+    text-decoration: none;
+    color: #868e96;
+    gap: 10px;
+    align-items: center;
+    background: #f8f9fa;
+}
+.customerSbDown a:hover{
+    background: #e1e2e4;
+}
+.customerSbDown a i{
+    margin-left: 20px;
+}
+#avr{
+    margin-left: 80px;
+    background-color: #f8f9fa;
+    padding: 0px 14px 0 14px;
+    border-radius: 9px;
+    font-size: 13px;
+}
+#avrs{
+    display: flex;
+    gap: 10px;
+}
+#abc{
+    border-color: #dee2e6;
+    background: #dee2e6;
+}
+#ftor{
+    margin-top: 800px;
 }
