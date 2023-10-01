@@ -486,6 +486,16 @@ nav{
     justify-content: center;
     gap: 50px;
 }
+.grnew{
+    width: 1519px;
+    height: 274px;
+    background-color: #efeeee;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
 .sect{
     display: flex;
     gap: 20px;
@@ -541,6 +551,14 @@ nav{
 #mktb{
     position: absolute;
     top: 1835px;
+    left: 545px;
+    font-size: 27px;
+    color: #868e96;
+    cursor: pointer;
+}
+#mktbb{
+    position: absolute;
+    top: 2560px;
     left: 545px;
     font-size: 27px;
     color: #868e96;
@@ -721,4 +739,139 @@ form{
 }
 #btn i{
     font-size: 14px;
+}
+section{
+    background-color: #f2f5f9;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.containerb{
+    width: 1140px;
+    margin-left: 189.600px;
+    margin-right: 189.600px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.boxed{
+    background-image: url(https://demo.bootstrapious.com/varkala/1-2-1/img/photo/chris-murray-YGzEX5yLKeA-unsplash.jpg);
+    width: 1110px;
+    height: 432.8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.bxal span{
+    color: #868e96;
+    font-weight: 600;
+}
+.bxal a{
+      text-decoration: none;
+      color: #bcac76;
+}
+.bxal a:hover{
+    text-decoration: underline;
+    color: #b5983b;
+}
+.boxed h1{
+    font-size: 90px;
+    color: white;
+    margin-top: 20px;
+}
+.collax{
+    margin-top: 50px;
+    display: flex;
+}
+.boxlf{
+    width: 401px;
+    height: 300.49px;
+    padding-right: 48px;
+    margin-bottom: 48px;
+}
+#bxrgq{
+    width: 305.99px;
+}
+#bxrgqd{
+    width: 350px;
+}
+.boxlf img{
+    width: 305.99px;
+    height: 204.09px;
+    margin-bottom: 20px;
+}
+#bxmdg{
+    width: 305.99px;
+    height: 305.99px;
+    margin-bottom: 20px;
+}
+#bxmdgs{
+    width: 305.99px;
+    height: 354.48px;
+    margin-bottom: 20px;
+}
+#bxa{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    width: 305.99px;
+}
+#bxa:hover{
+    text-decoration: underline;
+}
+#bxlfe a{
+    text-decoration: none;
+    color: #bcac76;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-right: 9px;
+    margin-top: 15px;
+}
+#bxlfe a:hover{
+    text-decoration: underline;
+    color: #b5983b;
+}
+#bxlfe p{
+    font-size: 13px;
+    font-weight: 600;
+    color: #adb7c1;
+    margin-top: 15px;
+    width: 353px;
+}
+.cxMid{
+    display: flex;
+    flex-direction: column;
+    gap: 85px;
+}
+.cxRight{
+    display: flex;
+    flex-direction: column;
+}
+#arsty{
+    margin-bottom: 270px;
+}
+.pageslc{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+.pgscLeft a{
+    text-decoration: none;
+    color: #868e96;
+}
+.pgscLeft a:hover{
+    color: #61666b;
+}
+.pgscRight a{
+    text-decoration: none;
+    color: #868e96;
+    cursor: default;
+}
+#mktbb{
+
 }
