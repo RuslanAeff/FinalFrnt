@@ -1016,3 +1016,82 @@ tr:hover{
 #ftor{
     margin-top: 800px;
 }
+#categor{
+    background-color: #fbfafa;
+    margin-top: 20px;
+}
+.categoryrow{
+    display: flex;
+}
+.sideBarLeft{
+    width: 323.3px;
+    height: 2674.5px;
+    margin-top: 50px;
+}
+.sideBarLeft h5{
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+.sideBartro{
+    padding-bottom: 30px;
+    border-bottom: 1px solid #bec5cc;
+}
+.sidebarlt img{
+    width: 35px;
+    height: 35px;
+}
+.sidebarlt a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    margin-left: 27px;
+    margin-right: 10px;
+}
+.sidebarlt i{
+    margin-left: 150px;
+    cursor: pointer;
+}
+.sidebarlt span{
+    color: #868e96;
+}
+.sidebarlt {
+    display: flex;
+    align-items: center;
+}
+.sidebarlsit a{
+    text-decoration: none;
+    color: #868e96;
+}
+.sidebarlsit ul{
+    list-style-type: none;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: 62px;
+}
+.sidebarlsit li:hover{
+    color: #bcac76;
+    text-decoration: underline;
+}
+.sidebarlsit a:hover{
+    color: #bcac76;
+    text-decoration: underline;
+}
+.sidebarjack{
+    margin-top: 20px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #bec5cc;
+}
+.sideBartshirt{
+    margin-top: 20px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #bec5cc;
+}
+.sidebarprice{
+    display: flex;
+    flex-direction: column;
+}
+.sidebarprice h5{
+    margin-top: 25px;
+}
